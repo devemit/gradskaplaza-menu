@@ -4,13 +4,6 @@ import ScrollToTop from './utils/scrollToTop';
 import QR from './components/QR';
 import Foods from './pages/foods/Foods';
 import Drinks from './pages/drinks/Drinks';
-import Coffees from './pages/drinks/Coffees';
-import Alcohol from './pages/drinks/Alcohol';
-import Coctails from './pages/drinks/Coctails';
-import Juices from './pages/drinks/Juices';
-import Beers from './pages/drinks/Beers';
-import Wines from './pages/drinks/Wines';
-import Waters from './pages/drinks/Waters';
 import Breakfast from './pages/foods/Breakfast';
 import Pasta from './pages/foods/Pasta';
 import Toasts from './pages/foods/Toasts';
@@ -40,13 +33,6 @@ const App = () => {
         <Route path='/foods/deserts' element={<Deserts />} />
         {/* drinks */}
         <Route path='/drinks' element={<Drinks />} />
-        <Route path='/drinks/coffees' element={<Coffees />} />
-        <Route path='/drinks/waters' element={<Waters />} />
-        <Route path='/drinks/wines' element={<Wines />} />
-        <Route path='/drinks/beers' element={<Beers />} />
-        <Route path='/drinks/juices' element={<Juices />} />
-        <Route path='/drinks/coctails' element={<Coctails />} />
-        <Route path='/drinks/alcohol' element={<Alcohol />} />
       </Routes>
       <ScrollToTop />
       <QR />
