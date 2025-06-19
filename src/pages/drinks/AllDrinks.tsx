@@ -7,7 +7,7 @@ const AllDrinks = () => {
     <div className='table'>
       <div style={{ display: 'flex', padding: '1rem', alignItems: 'center' }}>
         <ButtonBack link={'/'} />
-        <DrinktsTitle label={'Сите Пијалоци/All Drinks'} />
+        <DrinktsTitle label={'Пијалоци/Drinks'} />
       </div>
       <table>
         <tr>
