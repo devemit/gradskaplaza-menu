@@ -29,7 +29,7 @@ export default function QR() {
           height: '90px',
         }}
       >
-        Scan to see our menu!
+        СКЕНИРАЈ ЗА МЕНИ!
       </h1>
     </div>
   );

@@ -24,7 +24,7 @@ export default function Salads() {
                 </span>
               </td>
             </div>
-            <td>220ден/3.7€</td>
+            <td>220ден/3.8€</td>
           </tr>
           <tr>
             <div style={{ maxWidth: '190px', margin: 'auto' }}>
@@ -37,7 +37,7 @@ export default function Salads() {
                 </span>
               </td>
             </div>
-            <td>220ден/3.7€</td>
+            <td>220ден/3.8€</td>
           </tr>
           <tr>
             <div style={{ maxWidth: '190px', margin: 'auto' }}>

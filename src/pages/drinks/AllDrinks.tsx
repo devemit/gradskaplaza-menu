@@ -26,7 +26,7 @@ const AllDrinks = () => {
               </span>
             </td>
           </div>
-          <td>150ден/2.5€</td>
+          <td>170ден/2.9€</td>
         </tr>
 
         {/* Separator */}
@@ -39,8 +39,16 @@ const AllDrinks = () => {
 
         {/* Waters Section */}
         <tr>
-          <td>Роса/Rosa</td>
-          <td>60ден/1€</td>
+          <td>Нес Кафе/Coffee</td>
+          <td>100ден/1.7€</td>
+        </tr>
+        <tr>
+          <td>Вода мала/Water small</td>
+          <td>40ден/0.7€</td>
+        </tr>
+        <tr>
+          <td>Вода голема/Water big</td>
+          <td>50ден/0.9€</td>
         </tr>
         <tr>
           <td>Газирана вода/Mineral Water</td>
@@ -49,6 +57,28 @@ const AllDrinks = () => {
         <tr>
           <td>Добра Вода/Dobra Voda</td>
           <td>70ден/1.2€</td>
+        </tr>
+        <tr>
+          <td
+            colSpan={2}
+            style={{ borderBottom: '2px solid var(--gold)', padding: '5px' }}
+          ></td>
+        </tr>
+        <tr>
+          <td>Кока кола/Coca Cola</td>
+          <td>70ден/1.2€</td>
+        </tr>
+        <tr>
+          <td>Фанта/Fanta</td>
+          <td>70ден/1.2€</td>
+        </tr>
+        <tr>
+          <td>Спрајт/Sprite</td>
+          <td>70ден/1.2€</td>
+        </tr>
+        <tr>
+          <td>Цеден Портокал/Fresh Orange Juice</td>
+          <td>120ден/2€</td>
         </tr>
 
         {/* Separator */}
@@ -62,23 +92,15 @@ const AllDrinks = () => {
         {/* Beers Section */}
         <tr>
           <td>Скопско/Skopsko</td>
-          <td>120ден/2€</td>
-        </tr>
-        <tr>
-          <td>Хајнекен/Heineken</td>
-          <td>150ден/2.5€</td>
+          <td>100ден/1.7€</td>
         </tr>
         <tr>
           <td>Скопско Смут/Smooth</td>
+          <td>100ден/1.7€</td>
+        </tr>
+        <tr>
+          <td>Хајнекен/Heineken</td>
           <td>120ден/2€</td>
-        </tr>
-        <tr>
-          <td>Точено мало/Pint small</td>
-          <td>90ден/1.5€</td>
-        </tr>
-        <tr>
-          <td>Точено големо/Pint big</td>
-          <td>110ден/1.9€</td>
         </tr>
 
         {/* Separator */}

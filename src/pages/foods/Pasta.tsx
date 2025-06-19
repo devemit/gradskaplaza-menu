@@ -53,7 +53,7 @@ export default function Pasta() {
               </span>
             </td>
           </div>
-          <td>220ден/3.7€</td>
+          <td>220ден/3.8€</td>
         </tr>
       </table>
     </div>
