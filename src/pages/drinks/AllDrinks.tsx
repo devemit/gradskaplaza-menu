@@ -15,7 +15,6 @@ const AllDrinks = () => {
           <th>Цена/Price</th>
         </tr>
 
-        {/* Sunbed Section */}
         <tr>
           <div style={{ maxWidth: '440px', margin: 'auto' }}>
             <td>
@@ -29,7 +28,6 @@ const AllDrinks = () => {
           <td>170ден/2.9€</td>
         </tr>
 
-        {/* Separator */}
         <tr>
           <td
             colSpan={2}
@@ -37,10 +35,9 @@ const AllDrinks = () => {
           ></td>
         </tr>
 
-        {/* Waters Section */}
         <tr>
           <td>Нес Кафе/Coffee</td>
-          <td>100ден/1.7€</td>
+          <td>90ден/1.5€</td>
         </tr>
         <tr>
           <td>Вода мала/Water small</td>
@@ -81,7 +78,6 @@ const AllDrinks = () => {
           <td>120ден/2€</td>
         </tr>
 
-        {/* Separator */}
         <tr>
           <td
             colSpan={2}
@@ -89,7 +85,6 @@ const AllDrinks = () => {
           ></td>
         </tr>
 
-        {/* Beers Section */}
         <tr>
           <td>Скопско/Skopsko</td>
           <td>100ден/1.7€</td>
@@ -103,7 +98,6 @@ const AllDrinks = () => {
           <td>120ден/2€</td>
         </tr>
 
-        {/* Separator */}
         <tr>
           <td
             colSpan={2}
@@ -111,7 +105,6 @@ const AllDrinks = () => {
           ></td>
         </tr>
 
-        {/* Cocktails Section - Ordered by price low to high */}
         <tr>
           <td>Пина Колада/Pina Colada</td>
           <td>200ден/3.5€</td>
