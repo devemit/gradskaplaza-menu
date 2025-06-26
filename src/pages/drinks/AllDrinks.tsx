@@ -45,15 +45,19 @@ const AllDrinks = () => {
         </tr>
         <tr>
           <td>Вода голема/Water big</td>
-          <td>50ден/0.9€</td>
-        </tr>
-        <tr>
-          <td>Газирана вода/Mineral Water</td>
           <td>60ден/1€</td>
         </tr>
         <tr>
+          <td>Газирана вода мала/Mineral Water small</td>
+          <td>50ден/0.9€</td>
+        </tr>
+        <tr>
           <td>Добра Вода/Dobra Voda</td>
-          <td>70ден/1.2€</td>
+          <td>60ден/1€</td>
+        </tr>
+        <tr>
+          <td>Цедевита/Cedevita</td>
+          <td>60ден/1€</td>
         </tr>
         <tr>
           <td
