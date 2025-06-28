@@ -6,8 +6,11 @@ const Menu = () => {
   return (
     <div className='menu_container'>
       <div className='men'>
-        <div className='blur-image' style={{ position: 'relative' }}>
-          <ImageComponent src={'/sbeds.avif'} />
+        <div
+          className='blur-image'
+          style={{ position: 'relative', height: '400px', overflow: 'hidden' }}
+        >
+          <ImageComponent src={'/ref.jpg'} />
           <div
             style={{
               position: 'absolute',
