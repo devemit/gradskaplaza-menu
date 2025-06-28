@@ -16,19 +16,6 @@ const AllDrinks = () => {
         </tr>
 
         <tr>
-          <div style={{ maxWidth: '440px', margin: 'auto' }}>
-            <td>
-              Лежалка/Sunbed
-              <br />
-              <span style={{ fontSize: '.8rem' }}>
-                со лежалката добивате по ваш избор кафе и вода, пиво или сок
-              </span>
-            </td>
-          </div>
-          <td>170ден/2.9€</td>
-        </tr>
-
-        <tr>
           <td
             colSpan={2}
             style={{ borderBottom: '2px solid var(--gold)', padding: '5px' }}
