@@ -152,6 +152,10 @@ const AllDrinks = () => {
           <td>А.М.Ф/A.M.F</td>
           <td>250ден/4.1€</td>
         </tr>
+         <tr>
+          <td>Аperol/Aperol</td>
+          <td>200ден/3.4€</td>
+        </tr>
         <tr>
           <td>Аризона Твистер/Arizona Twister</td>
           <td>250ден/4.1€</td>
