@@ -124,6 +124,10 @@ const AllDrinks = () => {
           <td>Блу Лагун/Blue Lagoon</td>
           <td>200ден/3.5€</td>
         </tr>
+         <tr>
+          <td>Аперол/Aperol</td>
+          <td>200ден/3.5€</td>
+        </tr>
         <tr>
           <td>Фламинго/Flamingo</td>
           <td>200ден/3.5€</td>
@@ -151,10 +155,6 @@ const AllDrinks = () => {
         <tr>
           <td>А.М.Ф/A.M.F</td>
           <td>250ден/4.1€</td>
-        </tr>
-         <tr>
-          <td>Аperol/Aperol</td>
-          <td>200ден/3.4€</td>
         </tr>
         <tr>
           <td>Аризона Твистер/Arizona Twister</td>
