@@ -11,7 +11,7 @@ export default function QR() {
     >
       <QRCode
         style={{ padding: '.5rem' }}
-        value={'https://gradskaplaza-menu.vercel.app/'}
+        value={'https://gradskaplazamenu.vercel.app/'}
         bgColor='white'
         fgColor='black'
         size={500}
