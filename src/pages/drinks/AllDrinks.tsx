@@ -124,6 +124,10 @@ const AllDrinks = () => {
           <td>Блу Лагун/Blue Lagoon</td>
           <td>200ден/3.5€</td>
         </tr>
+         <tr>
+          <td>Аперол/Aperol</td>
+          <td>200ден/3.5€</td>
+        </tr>
         <tr>
           <td>Фламинго/Flamingo</td>
           <td>200ден/3.5€</td>
