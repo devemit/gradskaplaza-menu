@@ -1,3 +1,9 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://gradskaplazamenu.vercel.app/:path*",
+      "permanent": true
+    }
+  ]
 }
