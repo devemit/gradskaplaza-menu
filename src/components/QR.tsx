@@ -14,7 +14,7 @@ export default function QR() {
         value={'https://gradskaplazamenu.vercel.app/'}
         bgColor='white'
         fgColor='black'
-        size={500}
+        size={450}
       />
       <h1
         style={{
