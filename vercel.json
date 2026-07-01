@@ -1,9 +1,14 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://gradskaplazamenu.vercel.app/",
+      "permanent": false
+    },
+    {
       "source": "/:path*",
       "destination": "https://gradskaplazamenu.vercel.app/:path*",
-      "permanent": true
+      "permanent": false
     }
   ]
 }
